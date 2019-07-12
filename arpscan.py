@@ -1,4 +1,4 @@
-__author__ = 'Fahri Güreşçi'
+__author__ = 'Fahri Guresci'
 __version__ = '1.0'
 
 # arpscan is a network security program.
